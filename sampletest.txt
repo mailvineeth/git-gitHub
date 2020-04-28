@@ -1,1 +1,3 @@
 I am learning Devops Training.
+
+I am a Java developer and building a gaming application.
