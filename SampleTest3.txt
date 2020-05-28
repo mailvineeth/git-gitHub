@@ -1,3 +1,0 @@
-This is my first code.
-
-I am a java developer and developing a gaming project.
